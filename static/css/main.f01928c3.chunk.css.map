@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Counter.scss"],"names":[],"mappings":"AAAA,SACE,iBAAkB,CAClB,KAAM,CACN,OAAQ,CACT,cAGC,YAAa,CACb,qBAAsB,CACtB,aAAA,CAAA,QAAS","file":"main.f01928c3.chunk.css","sourcesContent":[".buttons {\n  position: absolute;\n  top: 0;\n  right: 0;\n}\n\n.text-content {\n  display: flex;\n  flex-direction: column;\n  gap: 30px;\n}\n"]}
